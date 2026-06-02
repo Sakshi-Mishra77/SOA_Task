@@ -1,0 +1,7 @@
+What is Linux
+Linux is an open-source operating system used on servers, desktops, and embedded devices.
+
+Three commands learned
+1. mkdir - Creates a new directory.
+2. cd - Changes the current directory.
+3. pwd - Displays the current working directory.
